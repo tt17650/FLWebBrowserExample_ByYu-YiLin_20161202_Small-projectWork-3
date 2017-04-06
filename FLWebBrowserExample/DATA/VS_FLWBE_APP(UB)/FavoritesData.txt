@@ -1,0 +1,14 @@
+﻿--網站連結--,
+Google台灣,www.google.com.tw
+Yahoo!奇摩,tw.yahoo.com
+Facebook,www.facebook.com
+104人力銀行,www.104.com.tw
+中央氣象局,www.cwb.gov.tw
+臺中市政府,www.taichung.gov.tw
+iTaiwan 無線上網,itaiwan.gov.tw
+電子發票整合服務平台,www.einvoice.nat.gov.tw
+HAPPY GO Card,www.happygocard.com.tw
+HAPPY Cash Card,www.happycashcard.com.tw
+Code.org(遊戲學程式),studio.code.org
+CodeCombat(遊戲學程式),codecombat.com
+-空白頁-,about:blank
